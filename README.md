@@ -9,4 +9,5 @@ Il codice è stato sviluppato con TwinCAT 2 (versione 2.11 x64 Engineering). Que
 *Descrizione file*
 
 -Il file contenente il programma scritto in ambiente TwinCAT (denominazione: A_I_finale.pro);
+
 -Il file contenente le assegnazioni in “System Manager” (denominazione: Config.tsm).
